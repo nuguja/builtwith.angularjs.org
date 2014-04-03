@@ -1992,7 +1992,21 @@
         "Tests Included",
         "Python", "Google App Engine"
       ]
-    }
-
+    },
+    {
+	  "name": "Geo marker selecting helper tool",
+	  "thumb": "ssc/thumb.png",
+	  "desc": "Interactive helper tool for generating list of geo coordinate and naming the place for easy copy to your data input.",
+	  "url": "http://examples.spreadsheetconverter.com/maptool/",
+	  "submitter": "nuguja",
+	  "submissionDate": "2014-04-03",
+	  "tags": [
+	    "Production",
+	    "Productivity",
+	    "Google map","Geolocation","Marker"
+	    "jQuery"
+	    "Bootstrap"
+	  ]
+	}
   ]
 }
